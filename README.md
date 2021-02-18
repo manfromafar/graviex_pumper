@@ -1,6 +1,10 @@
 Bot will sell a instrument slighlty under current sell, and if order is replaced it will put a new one up under current sell, and so on..
 Untill your bag is sold...
 
+NOTE
+Need to manually edit volume of coins to buy at line 22. --volume is still required by ignored. 
+NOTE
+
 RUN on a unique account made just for this bot.
 You can run many accounts/bots on many different markets.
 Use a new account/API key for each instance of Bot.
